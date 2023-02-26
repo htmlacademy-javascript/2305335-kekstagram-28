@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 //Функция для проверки длины строки.
 const isLengthString = (string, length) => string.length <= length;
 
